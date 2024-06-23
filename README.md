@@ -1,8 +1,11 @@
 # Node Hello World
 
-Simple node.js app that servers "hello world"
+S# Node.js Hello World Application
 
-Great for testing simple deployments to the cloud
+## Clone the repository
+```bash
+git clone https://github.com/your-github-username/your-repo-name.git
+cd your-repo-name
 
 ## Run It
 
